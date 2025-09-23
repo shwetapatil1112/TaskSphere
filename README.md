@@ -48,9 +48,9 @@ Upload profile picture
 
 Backend: Django (Python)
 
-Frontend: HTML, CSS, JavaScript (optionally React/Vue for SPA)
+Frontend: HTML, CSS, JavaScript 
 
-Database: SQLite3 (default, can be switched to PostgreSQL/MySQL)
+Database: MySQL
 
 Authentication: Django Auth / JWT
 
