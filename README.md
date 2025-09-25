@@ -4,6 +4,7 @@ TeamTrack - Task Assignment Web Application
 TeamTrack is a Django-based task assignment and tracking system. It helps project managers assign tasks, track progress, and generate reports, while enabling team members to manage their assigned tasks, collaborate, and update status.
 
 ✨ Features
+
 👤 User Roles
 
 Managers
