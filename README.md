@@ -51,7 +51,7 @@ Backend: Django (Python)
 
 Frontend: HTML, CSS, JavaScript 
 
-Database: MySQL
+Database:MySQL
 
 Authentication: Django Auth / JWT
 
